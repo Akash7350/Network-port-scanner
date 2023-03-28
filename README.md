@@ -4,9 +4,9 @@ A network port scanner written in Python is a useful tool for cybersecurity prof
 
 ## **🔐⛓🖇 1. Prerequisites:**
     
-  ###  i) Git
+    i)  Git
 
-  ###  ii) Python3
+    ii) Python3
 
 ## **🕸  2. Installation Steps:**
 
