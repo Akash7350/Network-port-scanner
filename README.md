@@ -11,7 +11,7 @@ A network port scanner written in Python is a useful tool for cybersecurity prof
 ## **🕸  2. Installation Steps:**
 
    ### Clone this project: 
-      git clone https://github.com/thecyberworld/port-scanner.git
+      git clone https://github.com/Akash7350/Network-port-scanner/blob/main/Port_Scanner.py
    ### Navigate to the project:
       cd port-scanner
       
